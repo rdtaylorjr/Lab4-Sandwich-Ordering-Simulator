@@ -1,0 +1,28 @@
+Enter sandwiches ordered (then "done"):
+3 3 4 1 5 6 7 7 9 7 10 1 2 2 done
+
+Sandwiches ordered but not yet served:
+1 - Cuban                         2 orders
+2 - Heritage Ham & Swiss          2 orders
+3 - Steak & Arugula               2 orders
+4 - Modern Caprese                1 order
+5 - Steak & White Cheddar Panini  1 order
+6 - BBQ Chicken Flatbread         1 order
+7 - The Italian                   3 orders
+9 - BBQ Chicken Flatbread         1 order
+10 - Bacon Turkey Bravo           1 order
+
+Enter sandwiches served (then "done"):
+3 4 1 5 8 2 done
+
+Sandwiches ordered but not yet served:
+1 - Cuban                         1 order
+2 - Heritage Ham & Swiss          1 order
+3 - Steak & Arugula               1 order
+6 - BBQ Chicken Flatbread         1 order
+7 - The Italian                   3 orders
+8 - Frontega Chicken Panini has not been ordered
+9 - BBQ Chicken Flatbread         1 order
+10 - Bacon Turkey Bravo           1 order
+
+Program ended with exit code: 0
